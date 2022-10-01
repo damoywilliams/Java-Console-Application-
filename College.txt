@@ -1,0 +1,778 @@
+College,Private,Apps,Accept,Enroll,Grad.Rate
+Abilene Christian University,Yes,1660,1232,721,60
+Adelphi University,Yes,2186,1924,512,56
+Adrian College,Yes,1428,1097,336,54
+Agnes Scott College,Yes,417,349,137,59
+Alaska Pacific University,Yes,193,146,55,15
+Albertson College,Yes,587,479,158,55
+Albertus Magnus College,Yes,353,340,103,63
+Albion College,Yes,1899,1720,489,73
+Albright College,Yes,1038,839,227,80
+Alderson-Broaddus College,Yes,582,498,172,52
+Alfred University,Yes,1732,1425,472,73
+Allegheny College,Yes,2652,1900,484,76
+Allentown Coll. of St. Francis de Sales,Yes,1179,780,290,74
+Alma College,Yes,1267,1080,385,68
+Alverno College,Yes,494,313,157,55
+American International College,Yes,1420,1093,220,69
+Amherst College,Yes,4302,992,418,100
+Anderson University,Yes,1216,908,423,59
+Andrews University,Yes,1130,704,322,46
+Angelo State University,No,3540,2001,1016,34
+Antioch University,Yes,713,661,252,48
+Appalachian State University,No,7313,4664,1910,70
+Aquinas College,Yes,619,516,219,65
+Arizona State University Main campus,No,12809,10308,3761,48
+Arkansas College (Lyon College),Yes,708,334,166,54
+Arkansas Tech University,No,1734,1729,951,48
+Assumption College,Yes,2135,1700,491,88
+Auburn University-Main Campus,No,7548,6791,3070,69
+Augsburg College,Yes,662,513,257,58
+Augustana College IL,Yes,1879,1658,497,71
+Augustana College,Yes,761,725,306,69
+Austin College,Yes,948,798,295,71
+Averett College,Yes,627,556,172,48
+Baker University,Yes,602,483,206,65
+Baldwin-Wallace College,Yes,1690,1366,662,85
+Barat College,Yes,261,192,111,71
+Bard College,Yes,1910,838,285,79
+Barnard College,Yes,2496,1402,531,91
+Barry University,Yes,990,784,279,72
+Baylor University,Yes,6075,5349,2367,72
+Beaver College,Yes,1163,850,348,73
+Bellarmine College,Yes,807,707,308,84
+Belmont Abbey College,Yes,632,494,129,52
+Belmont University,Yes,1220,974,481,49
+Beloit College,Yes,1320,923,284,69
+Bemidji State University,No,1208,877,546,46
+Benedictine College,Yes,632,620,222,58
+Bennington College,Yes,519,327,114,55
+Bentley College,Yes,3466,2330,640,82
+Berry College,Yes,1858,1221,480,63
+Bethany College,Yes,878,816,200,48
+Bethel College KS,Yes,202,184,122,56
+Bethel College,Yes,502,384,104,35
+Bethune Cookman College,Yes,1646,1150,542,58
+Birmingham-Southern College,Yes,805,588,287,72
+Blackburn College,Yes,500,336,156,51
+Bloomsburg Univ. of Pennsylvania,No,6773,3028,1025,75
+Bluefield College,Yes,377,358,181,53
+Bluffton College,Yes,692,514,209,58
+Boston University,Yes,20192,13007,3810,72
+Bowdoin College,Yes,3356,1019,418,96
+Bowling Green State University,No,9251,7333,3076,67
+Bradford College,Yes,443,330,151,46
+Bradley University,Yes,3767,3414,1061,85
+Brandeis University,Yes,4186,2743,740,84
+Brenau University,Yes,367,274,158,49
+Brewton-Parker College,Yes,1436,1228,1202,18
+Briar Cliff College,Yes,392,351,155,58
+Bridgewater College,Yes,838,673,292,82
+Brigham Young University at Provo,Yes,7365,5402,4615,33
+Brown University,Yes,12586,3239,1462,97
+Bryn Mawr College,Yes,1465,810,313,89
+Bucknell University,Yes,6548,3813,862,93
+Buena Vista College,Yes,860,688,285,78
+Butler University,Yes,2362,2037,700,83
+Cabrini College,Yes,599,494,224,71
+Caldwell College,Yes,1011,604,213,55
+California Lutheran University,Yes,563,247,247,60
+California Polytechnic-San Luis,No,7811,3817,1650,59
+California State University at Fresno,No,4540,3294,1483,61
+Calvin College,Yes,1784,1512,913,81
+Campbell University,Yes,2087,1339,657,63
+Campbellsville College,Yes,848,587,298,49
+Canisius College,Yes,2853,2193,753,64
+Capital University,Yes,1747,1382,449,83
+Capitol College,Yes,100,90,35,52
+Carleton College,Yes,2694,1579,489,91
+Carnegie Mellon University,Yes,8728,5201,1191,74
+Carroll College,Yes,1160,991,352,79
+Carson-Newman College,Yes,1096,951,464,67
+Carthage College,Yes,1616,1427,434,62
+Case Western Reserve University,Yes,3877,3156,713,67
+Castleton State College,No,1257,940,363,79
+Catawba College,Yes,1083,880,291,55
+Catholic University of America,Yes,1754,1465,505,75
+Cazenovia College,Yes,3847,3433,527,118
+Cedar Crest College,Yes,776,607,198,74
+Cedarville College,Yes,1307,1090,616,64
+Centenary College,Yes,369,312,90,24
+Centenary College of Louisiana,Yes,495,434,210,66
+Center for Creative Studies,Yes,601,396,203,47
+Central College,Yes,1283,1113,401,67
+Central Connecticut State University,No,4158,2532,902,49
+Central Missouri State University,No,4681,4101,1436,50
+Central Washington University,No,2785,2011,1007,51
+Central Wesleyan College,Yes,174,146,88,58
+Centre College,Yes,1013,888,288,74
+Chapman University,Yes,959,771,351,47
+Chatham College,Yes,212,197,91,52
+Chestnut Hill College,Yes,342,254,126,73
+Christendom College,Yes,81,72,51,58
+Christian Brothers University,Yes,880,520,224,63
+Christopher Newport University,No,883,766,428,48
+Claflin College,Yes,1196,697,499,21
+Claremont McKenna College,Yes,1860,767,227,87
+Clark University,Yes,2887,2059,457,79
+Clarke College,Yes,460,340,167,74
+Clarkson University,Yes,2174,1953,557,77
+Clemson University,No,8065,5257,2301,73
+Clinch Valley Coll. of  the Univ. of Virginia,No,689,561,250,46
+Coe College,Yes,1006,742,275,67
+Coker College,Yes,604,452,295,75
+Colby College,Yes,2848,1319,456,91
+Colgate University,Yes,4856,2492,727,93
+College Misericordia,Yes,1432,888,317,96
+College of Charleston,No,4772,3140,1265,51
+College of Mount St. Joseph,Yes,798,620,238,100
+College of Mount St. Vincent,Yes,946,648,177,83
+College of Notre Dame,Yes,344,264,97,43
+College of Notre Dame of Maryland,Yes,457,356,177,75
+College of Saint Benedict,Yes,938,864,511,72
+College of Saint Catherine,Yes,511,411,186,77
+College of Saint Elizabeth,Yes,444,359,122,78
+College of Saint Rose,Yes,983,664,249,64
+College of Santa Fe,Yes,546,447,189,80
+College of St. Joseph,Yes,141,118,55,76
+College of St. Scholastica,Yes,672,596,278,72
+College of the Holy Cross,Yes,2994,1691,659,95
+College of William and Mary,No,7117,3106,1217,93
+College of Wooster,Yes,2100,1883,553,69
+Colorado College,Yes,3207,1577,490,84
+Colorado State University,No,9478,6312,2194,59
+Columbia College MO,Yes,314,158,132,37
+Columbia College,Yes,737,614,242,76
+Columbia University,Yes,6756,1930,871,99
+Concordia College at St. Paul,Yes,281,266,139,45
+Concordia Lutheran College,Yes,232,216,106,42
+Concordia University CA,Yes,688,497,144,55
+Concordia University,Yes,528,403,186,75
+Connecticut College,Yes,3035,1546,438,91
+Converse College,Yes,440,407,149,75
+Cornell College,Yes,1538,1329,383,64
+Creighton University,Yes,2967,2836,876,85
+Culver-Stockton College,Yes,1576,1110,274,51
+Cumberland College,Yes,995,789,398,63
+D'Youville College,Yes,866,619,157,46
+Dana College,Yes,504,482,185,54
+Daniel Webster College,Yes,585,508,153,72
+Dartmouth College,Yes,8587,2273,1087,98
+Davidson College,Yes,2373,956,452,94
+Defiance College,Yes,571,461,174,56
+Delta State University,No,967,945,459,58
+Denison University,Yes,2762,2279,533,81
+DePauw University,Yes,1994,1656,495,82
+Dickinson College,Yes,3014,2539,487,87
+Dickinson State University,No,434,412,319,46
+Dillard University,Yes,1998,1376,651,61
+Doane College,Yes,793,709,244,60
+Dominican College of Blauvelt,Yes,360,329,108,54
+Dordt College,Yes,604,562,328,87
+Dowling College,Yes,1011,829,410,42
+Drake University,Yes,2799,2573,839,77
+Drew University,Yes,2153,1580,321,83
+Drury College,Yes,700,650,314,67
+Duke University,Yes,13789,3893,1583,97
+Earlham College,Yes,1358,1006,274,78
+East Carolina University,No,9274,6362,2435,58
+East Tennessee State University,No,3330,2730,1303,42
+East Texas Baptist University,Yes,379,341,265,38
+Eastern College,Yes,458,369,165,54
+Eastern Connecticut State University,No,2172,1493,564,50
+Eastern Illinois University,No,5597,4253,1565,76
+Eastern Mennonite College,Yes,486,440,227,82
+Eastern Nazarene College,Yes,516,409,200,70
+Eckerd College,Yes,1422,1109,366,59
+Elizabethtown College,Yes,2417,1843,426,81
+Elmira College,Yes,1457,1045,345,64
+Elms College,Yes,245,208,125,86
+Elon College,Yes,3624,2786,858,63
+Embry Riddle Aeronautical University,Yes,3151,2584,958,44
+Emory & Henry College,Yes,765,646,226,82
+Emory University,Yes,8506,4168,1236,96
+Emporia State University,No,1256,1256,853,50
+Erskine College,Yes,659,557,167,67
+Eureka College,Yes,560,454,113,53
+Evergreen State College,No,1801,1101,438,68
+Fairfield University,Yes,4784,3346,781,94
+Fayetteville State University,No,1455,1064,452,24
+Ferrum College,Yes,1339,1107,336,22
+Flagler College,Yes,1415,714,338,69
+Florida Institute of Technology,Yes,1947,1580,523,57
+Florida International University,No,3306,2079,1071,66
+Florida Southern College,Yes,1381,1040,374,68
+Florida State University,No,11651,8683,3023,58
+Fontbonne College,Yes,291,245,126,62
+Fordham University,Yes,4200,2874,942,80
+Fort Lewis College,No,3440,2823,1123,46
+Francis Marion University,No,1801,1655,819,43
+Franciscan University of Steubenville,Yes,553,452,228,83
+Franklin College,Yes,804,632,281,60
+Franklin Pierce College,Yes,5187,4471,446,51
+Freed-Hardeman University,Yes,895,548,314,62
+Fresno Pacific College,Yes,346,274,146,54
+Furman University,Yes,2161,1951,685,82
+Gannon University,Yes,2464,1908,678,65
+Gardner Webb University,Yes,1110,930,332,29
+Geneva College,Yes,668,534,237,74
+George Fox College,Yes,809,726,294,52
+George Mason University,No,5653,4326,1727,46
+George Washington University,Yes,7875,5062,1492,72
+Georgetown College,Yes,727,693,286,55
+Georgetown University,Yes,11115,2881,1390,95
+Georgia Institute of Technology,No,7837,4527,2276,70
+Georgia State University,No,3793,2341,1238,34
+Georgian Court College,Yes,348,281,127,76
+Gettysburg College,Yes,3596,2466,575,83
+Goldey Beacom College,Yes,633,468,284,36
+Gonzaga University,Yes,1886,1524,526,69
+Gordon College,Yes,674,565,282,66
+Goshen College,Yes,440,396,221,72
+Goucher College,Yes,1151,813,248,77
+Grace College and Seminary,Yes,548,428,167,64
+Graceland College,Yes,555,414,242,47
+Grand Valley State University,No,5165,3887,1561,57
+Green Mountain College,Yes,780,628,198,76
+Greensboro College,Yes,608,494,176,39
+Greenville College,Yes,510,387,194,60
+Grinnell College,Yes,2039,1389,432,83
+Grove City College,Yes,2491,1110,573,100
+Guilford College,Yes,1202,1054,326,65
+Gustavus Adolphus College,Yes,1709,1385,634,80
+Gwynedd Mercy College,Yes,380,237,104,96
+Hamilton College,Yes,3140,1783,454,91
+Hamline University,Yes,1006,825,328,65
+Hampden - Sydney College,Yes,817,644,307,69
+Hampton University,Yes,7178,3755,1433,70
+Hanover College,Yes,1006,837,317,64
+Hardin-Simmons University,Yes,467,424,350,38
+Harding University,Yes,1721,1068,806,73
+Hartwick College,Yes,2083,1725,430,73
+Harvard University,Yes,13865,2165,1606,100
+Harvey Mudd College,Yes,1377,572,178,100
+Hastings College,Yes,817,708,262,52
+Hendrix College,Yes,823,721,274,63
+Hillsdale College,Yes,920,745,347,79
+Hiram College,Yes,922,729,244,79
+Hobart and William Smith Colleges,Yes,2688,2081,500,79
+Hofstra University,Yes,7428,5860,1349,60
+Hollins College,Yes,602,498,215,72
+Hood College,Yes,699,565,176,72
+Hope College,Yes,1712,1483,624,72
+Houghton College,Yes,949,786,302,67
+Huntingdon College,Yes,608,520,127,44
+Huntington College,Yes,450,430,125,47
+Huron University,Yes,600,197,124,21
+Husson College,Yes,723,652,361,84
+Illinois Benedictine College,Yes,607,558,269,75
+Illinois College,Yes,894,787,262,52
+Illinois Institute of Technology,Yes,1756,1360,478,56
+Illinois State University,No,8681,6695,2408,54
+Illinois Wesleyan University,Yes,3050,1342,471,83
+Immaculata College,Yes,268,253,103,69
+Incarnate Word College,Yes,1163,927,386,95
+Indiana State University,No,5659,4761,3147,40
+Indiana University at Bloomington,No,16587,13243,5873,68
+Indiana Wesleyan University,Yes,735,423,366,34
+Iona College,Yes,4892,3530,913,66
+Iowa State University,No,8427,7424,3441,65
+Ithaca College,Yes,7259,5526,1368,75
+James Madison University,No,11223,5285,2082,98
+Jamestown College,Yes,472,410,262,54
+Jersey City State College,No,2957,1423,691,26
+John Brown University,Yes,605,405,284,75
+John Carroll University,Yes,2421,2109,820,89
+Johns Hopkins University,Yes,8474,3446,911,90
+Johnson State College,No,833,669,279,36
+Judson College,Yes,313,228,137,56
+Juniata College,Yes,1005,859,298,80
+Kansas State University,No,5880,4075,2833,54
+Kansas Wesleyan University,Yes,589,575,148,68
+Keene State College,No,3121,2446,822,61
+Kentucky Wesleyan College,Yes,584,497,175,62
+Kenyon College,Yes,2212,1538,408,88
+Keuka College,Yes,461,381,174,51
+King's College,Yes,1456,1053,381,87
+King College,Yes,355,300,142,65
+Knox College,Yes,1040,845,286,79
+La Roche College,Yes,361,321,185,52
+La Salle University,Yes,2929,1834,622,84
+Lafayette College,Yes,4010,2402,572,92
+LaGrange College,Yes,544,399,177,75
+Lake Forest College,Yes,979,638,271,77
+Lakeland College,Yes,497,452,231,57
+Lamar University,No,2336,1725,1043,26
+Lambuth University,Yes,831,538,224,60
+Lander University,No,1166,1009,510,51
+Lawrence University,Yes,1243,947,324,77
+Le Moyne College,Yes,1470,1199,425,94
+Lebanon Valley College,Yes,1386,1060,320,85
+Lehigh University,Yes,6397,4304,1092,91
+Lenoir-Rhyne College,Yes,979,743,259,66
+Lesley College,Yes,244,198,82,58
+LeTourneau University,Yes,477,417,204,56
+Lewis and Clark College,Yes,2774,2092,482,69
+Lewis University,Yes,1154,1050,395,61
+Lincoln Memorial University,Yes,787,562,363,53
+Lincoln University,No,1660,1091,326,45
+Lindenwood College,Yes,810,484,356,100
+Linfield College,Yes,1561,1188,458,81
+Livingstone College,Yes,900,473,217,92
+Lock Haven University of Pennsylvania,No,3570,2215,651,63
+Longwood College,No,2747,1870,724,62
+Loras College,Yes,1641,1283,527,70
+Louisiana College,Yes,2013,1053,212,59
+Louisiana State University at Baton Rouge,No,5996,4993,3079,37
+Louisiana Tech University,No,2397,2144,1525,45
+Loyola College,Yes,4076,3137,738,80
+Loyola Marymount University,Yes,3768,2662,753,84
+Loyola University,Yes,1891,1698,719,53
+Loyola University Chicago,Yes,3579,2959,868,65
+Luther College,Yes,1549,1392,587,77
+Lycoming College,Yes,1286,1005,363,72
+Lynchburg College,Yes,1756,1500,366,70
+Lyndon State College,No,535,502,223,51
+Macalester College,Yes,2939,1496,452,77
+MacMurray College,Yes,740,558,177,59
+Malone College,Yes,874,758,428,55
+Manchester College,Yes,1004,802,239,64
+Manhattan College,Yes,2432,1730,563,79
+Manhattanville College,Yes,962,750,212,70
+Mankato State University,No,3073,2672,1547,68
+Marian College of Fond du Lac,Yes,824,670,337,59
+Marietta College,Yes,1611,960,342,96
+Marist College,Yes,4731,3171,830,69
+Marquette University,Yes,5152,4600,1685,77
+Marshall University,Yes,4226,3666,2007,50
+Mary Baldwin College,Yes,499,441,199,90
+Mary Washington College,No,4350,2178,756,84
+Marymount College Tarrytown,Yes,478,327,117,77
+Marymount Manhattan College,Yes,695,535,239,68
+Marymount University,Yes,941,772,214,55
+Maryville College,Yes,1464,888,176,51
+Maryville University,Yes,549,397,169,61
+Marywood College,Yes,1107,859,323,66
+Massachusetts Institute of Technology,Yes,6411,2140,1078,94
+Mayville State University,No,233,233,153,51
+McKendree College,Yes,1002,555,119,52
+McMurry University,Yes,578,411,187,32
+McPherson College,Yes,420,293,93,48
+Mercer University,Yes,2286,1668,564,91
+Mercyhurst College,Yes,1557,1074,397,78
+Meredith College,Yes,857,772,376,82
+Merrimack College,Yes,1981,1541,514,80
+Mesa State College,No,1584,1456,891,59
+Messiah College,Yes,1742,1382,607,89
+Miami University at Oxford,No,9239,7788,3290,85
+Michigan State University,No,18114,15096,6180,71
+Michigan Technological University,No,2618,2288,1032,65
+MidAmerica Nazarene College,Yes,331,331,225,49
+Millersville University of Penn.,No,6011,3075,960,71
+Milligan College,Yes,610,461,189,64
+Millikin University,Yes,1444,1261,456,75
+Millsaps College,Yes,905,834,319,58
+Milwaukee School of Engineering,Yes,1217,1088,496,67
+Mississippi College,Yes,594,385,307,61
+Mississippi State University,No,4255,3277,1609,53
+Mississippi University for Women,No,480,405,380,63
+Missouri Southern State College,No,1576,1326,913,100
+Missouri Valley College,Yes,1310,983,316,27
+Monmouth College IL,Yes,601,503,204,56
+Monmouth College,Yes,2707,1881,478,54
+Montana College of Mineral Sci. & Tech.,No,572,544,320,74
+Montana State University,No,3500,2836,1779,37
+Montclair State University,No,5220,2128,865,58
+Montreat-Anderson College,Yes,263,223,103,15
+Moorhead State University,No,2442,2164,1189,60
+Moravian College,Yes,1232,955,303,74
+Morehouse College,Yes,3708,1678,722,83
+Morningside College,Yes,586,533,239,56
+Morris College,Yes,882,730,330,60
+Mount Holyoke College,Yes,1800,1314,526,84
+Mount Marty College,Yes,279,276,126,44
+Mount Mary College,Yes,235,217,121,78
+Mount Mercy College,Yes,368,317,159,64
+Mount Saint Clare College,Yes,325,284,95,21
+Mount Saint Mary's College,Yes,1321,1159,328,80
+Mount Saint Mary College,Yes,1170,695,238,88
+Mount St. Mary's College,Yes,657,537,113,72
+Mount Union College,Yes,1310,1086,458,81
+Mount Vernon Nazarene College,Yes,510,485,334,58
+Muhlenberg College,Yes,2519,1836,462,83
+Murray State University,No,2225,1910,1190,52
+Muskingum College,Yes,1109,922,375,73
+National-Louis University,Yes,513,347,279,71
+Nazareth College of Rochester,Yes,947,798,266,61
+New Jersey Institute of Technology,No,1879,1216,483,72
+New Mexico Institute of Mining and Tech.,No,787,601,233,34
+New York University,Yes,13594,7244,2505,71
+Newberry College,Yes,872,722,154,83
+Niagara University,Yes,2220,1796,467,65
+North Adams State College,No,1563,1005,240,57
+North Carolina A. & T. State University,No,4809,3089,1429,44
+North Carolina State University at Raleigh,No,10634,7064,3176,62
+North Carolina Wesleyan College,Yes,812,689,195,52
+North Central College,Yes,1127,884,308,76
+North Dakota State University,No,2968,2297,1610,42
+North Park College,Yes,465,361,176,74
+Northeast Missouri State University,No,6040,4577,1620,76
+Northeastern University,Yes,11901,8492,2517,46
+Northern Arizona University,No,5891,4931,1973,41
+Northern Illinois University,No,10706,7219,2397,56
+Northwest Missouri State University,No,2729,2535,1257,54
+Northwest Nazarene College,Yes,616,514,385,58
+Northwestern College,Yes,860,811,366,68
+Northwestern University,Yes,12289,5200,1902,92
+Norwich University,Yes,1743,1625,626,63
+Notre Dame College,Yes,379,324,107,33
+Oakland University,No,3041,2581,1173,53
+Oberlin College,Yes,4778,2767,678,83
+Occidental College,Yes,2324,1319,370,79
+Oglethorpe University,Yes,792,649,186,67
+Ohio Northern University,Yes,2936,2342,669,83
+Ohio University,No,11023,8298,3183,64
+Ohio Wesleyan University,Yes,2190,1700,458,75
+Oklahoma Baptist University,Yes,758,681,484,50
+Oklahoma Christian University,Yes,776,765,351,45
+Oklahoma State University,No,4522,3913,2181,48
+Otterbein College,Yes,1496,1205,428,87
+Ouachita Baptist University,Yes,910,773,450,65
+Our Lady of the Lake University,Yes,2308,1336,295,37
+Pace University,Yes,8256,3750,1522,62
+Pacific Lutheran University,Yes,1603,1392,504,83
+Pacific Union College,Yes,940,668,385,69
+Pacific University,Yes,943,849,288,42
+Pembroke State University,No,944,774,440,48
+Pennsylvania State Univ. Main Campus,No,19315,10344,3450,63
+Pepperdine University,Yes,3821,2037,680,66
+Peru State College,No,701,501,458,44
+Pfeiffer College,Yes,838,651,159,48
+Philadelphia Coll. of Textiles and Sci.,Yes,1538,1259,468,68
+Phillips University,Yes,692,576,174,39
+Piedmont College,Yes,663,562,127,31
+Pikeville College,Yes,404,400,169,61
+Pitzer College,Yes,1133,630,220,73
+Point Loma Nazarene College,Yes,809,687,428,54
+Point Park College,Yes,875,744,207,66
+Polytechnic University,Yes,1132,847,302,62
+Prairie View A. and M. University,No,2405,2234,1061,35
+Presbyterian College,Yes,1082,832,302,85
+Princeton University,Yes,13218,2042,1153,99
+Providence College,Yes,5139,3346,973,96
+Purdue University at West Lafayette,No,21804,18744,5874,67
+Queens College,Yes,516,392,154,58
+Quincy University,Yes,1025,707,297,80
+Quinnipiac College,Yes,3712,2153,806,86
+Radford University,No,5702,4894,1742,62
+Ramapo College of New Jersey,No,2088,957,362,47
+Randolph-Macon College,Yes,1771,1325,306,74
+Randolph-Macon Woman's College,Yes,696,616,169,68
+Reed College,Yes,1966,1436,327,68
+Regis College,Yes,427,385,143,84
+Rensselaer Polytechnic Institute,Yes,4996,4165,936,70
+Rhodes College,Yes,2302,1831,391,77
+Rider University,Yes,3586,2424,730,70
+Ripon College,Yes,587,501,211,64
+Rivier College,Yes,484,386,141,81
+Roanoke College,Yes,2227,1790,437,72
+Rockhurst College,Yes,935,858,345,79
+Rocky Mountain College,Yes,560,392,270,68
+Roger Williams University,Yes,3304,2804,679,61
+Rollins College,Yes,1777,1151,382,90
+Rosary College,Yes,434,321,141,81
+Rowan College of New Jersey,No,3820,1431,695,51
+Rutgers at New Brunswick,No,48094,26330,4520,77
+Rutgers State University at Camden,No,3366,1752,232,57
+Rutgers State University at Newark,No,5785,2690,499,58
+Sacred Heart University,Yes,2307,1896,509,82
+Saint Ambrose University,Yes,897,718,276,70
+Saint Anselm College,Yes,2095,1553,514,97
+Saint Cloud State University,No,3971,3306,1921,58
+Saint Francis College IN,Yes,213,166,85,48
+Saint Francis College,Yes,1046,824,284,69
+Saint John's University,Yes,933,800,444,70
+Saint Joseph's College IN,Yes,920,684,225,67
+Saint Joseph's College,Yes,833,682,217,85
+Saint Joseph's University,Yes,2519,2003,776,83
+Saint Joseph College,Yes,292,241,96,76
+Saint Louis University,Yes,3294,2855,956,67
+Saint Mary's College,Yes,888,734,393,98
+Saint Mary's College of Minnesota,Yes,876,802,367,78
+Saint Mary-of-the-Woods College,Yes,150,130,88,75
+Saint Michael's College,Yes,1910,1380,463,84
+Saint Olaf College,Yes,2248,1673,745,83
+Saint Peter's College,Yes,1606,1413,530,53
+Saint Vincent College,Yes,700,595,278,88
+Saint Xavier University,Yes,785,647,295,55
+Salem-Teikyo University,Yes,489,384,120,98
+Salem College,Yes,335,284,132,60
+Salisbury State University,No,4216,2290,736,56
+Samford University,Yes,1680,1395,691,61
+San Diego State University,No,9402,7020,2151,41
+Santa Clara University,Yes,4019,2779,888,100
+Sarah Lawrence College,Yes,1380,768,263,83
+Savannah Coll. of Art and Design,Yes,1109,688,386,55
+Schreiner College,Yes,584,413,131,52
+Scripps College,Yes,855,632,139,73
+Seattle Pacific University,Yes,1183,1016,411,66
+Seattle University,Yes,2115,1540,494,89
+Seton Hall University,Yes,4576,3565,1000,64
+Seton Hill College,Yes,936,794,197,71
+Shippensburg University of Penn.,No,5818,3281,1116,72
+Shorter College,Yes,540,445,165,58
+Siena College,Yes,2961,1932,628,100
+Siena Heights College,Yes,464,419,183,47
+Simmons College,Yes,1003,782,295,79
+Simpson College,Yes,1016,872,300,70
+Sioux Falls College,Yes,437,400,211,48
+Skidmore College,Yes,4293,2728,591,81
+Smith College,Yes,2925,1598,632,90
+South Dakota State University,No,2807,2589,1701,67
+Southeast Missouri State University,No,2281,1870,1408,45
+Southeastern Oklahoma State Univ.,No,818,700,447,53
+Southern California College,Yes,385,340,193,43
+Southern Illinois University at Edwardsville,No,2540,2195,994,43
+Southern Methodist University,Yes,4301,3455,1166,72
+Southwest Baptist University,Yes,1093,1093,642,71
+Southwest Missouri State University,No,6118,5254,3204,56
+Southwest State University,No,1047,938,511,51
+Southwestern Adventist College,Yes,321,318,172,36
+Southwestern College,Yes,213,155,75,52
+Southwestern University,Yes,1244,912,352,67
+Spalding University,Yes,283,201,97,89
+Spelman College,Yes,3713,1237,443,65
+Spring Arbor College,Yes,372,362,181,49
+St. Bonaventure University,Yes,1489,1313,375,78
+St. John's College,Yes,323,278,122,64
+St. John Fisher College,Yes,1368,1064,354,66
+St. Lawrence University,Yes,2753,1820,505,85
+St. Martin's College,Yes,191,165,63,40
+St. Mary's College of California,Yes,2643,1611,465,78
+St. Mary's College of Maryland,No,1340,695,285,63
+St. Mary's University of San Antonio,Yes,1243,1020,414,72
+St. Norbert College,Yes,1334,1243,568,88
+St. Paul's College,Yes,651,581,243,45
+St. Thomas Aquinas College,Yes,861,609,215,67
+Stephens College,Yes,450,405,194,59
+Stetson University,Yes,1557,1227,489,73
+Stevens Institute of Technology,Yes,1768,1249,380,79
+Stockton College of New Jersey,No,4019,1579,710,64
+Stonehill College,Yes,3646,2300,585,97
+SUNY at Albany,No,13528,9198,1843,74
+SUNY at Binghamton,No,14463,6166,1757,80
+SUNY at Buffalo,No,15039,9649,3087,56
+SUNY at Stony Brook,No,12512,6969,1724,57
+SUNY College  at Brockport,No,7294,3564,904,49
+SUNY College  at Oswego,No,8000,4556,1464,63
+SUNY College at Buffalo,No,5318,3515,1025,42
+SUNY College at Cortland,No,7888,3519,1036,53
+SUNY College at Fredonia,No,4877,2798,814,66
+SUNY College at Geneseo,No,8598,4562,1143,76
+SUNY College at New Paltz,No,8399,3609,656,53
+SUNY College at Plattsburgh,No,5549,3583,853,65
+SUNY College at Potsdam,No,3150,2289,650,59
+SUNY College at Purchase,No,2119,1264,390,46
+Susquehanna University,Yes,2096,1512,465,90
+Sweet Briar College,Yes,462,402,146,61
+Syracuse University,Yes,10477,7260,2442,67
+Tabor College,Yes,257,183,109,53
+Talladega College,Yes,4414,1500,335,46
+Taylor University,Yes,1769,1092,437,98
+Tennessee Wesleyan College,Yes,232,182,99,36
+Texas A&M Univ. at College Station,No,14474,10519,6392,69
+Texas A&M University at Galveston,No,529,481,243,43
+Texas Christian University,Yes,4095,3079,1195,64
+Texas Lutheran College,Yes,497,423,215,50
+Texas Southern University,No,4345,3245,2604,10
+Texas Wesleyan University,Yes,592,501,279,43
+The Citadel,No,1500,1242,611,84
+Thiel College,Yes,1154,951,253,60
+Tiffin University,Yes,845,734,254,39
+Transylvania University,Yes,759,729,244,70
+Trenton State College,No,5042,2312,944,81
+Tri-State University,Yes,1262,1102,276,65
+Trinity College CT,Yes,3058,1798,478,91
+Trinity College DC,Yes,247,189,100,96
+Trinity College VT,Yes,222,185,91,78
+Trinity University,Yes,2425,1818,601,93
+Tulane University,Yes,7033,5125,1223,74
+Tusculum College,Yes,626,372,145,52
+Tuskegee University,Yes,2267,1827,611,65
+Union College KY,Yes,484,384,177,64
+Union College NY,Yes,3495,1712,528,88
+Univ. of Wisconsin at OshKosh,No,4800,2900,1515,56
+University of Alabama at Birmingham,No,1797,1260,938,33
+University of Arkansas at Fayetteville,No,3235,3108,2133,39
+University of California at Berkeley,No,19873,8252,3215,78
+University of California at Irvine,No,15698,10775,2478,66
+University of Central Florida,No,6986,2959,1918,46
+University of Charleston,Yes,682,535,204,57
+University of Chicago,Yes,6348,2999,922,90
+University of Cincinnati,No,6855,5553,2408,54
+University of Connecticut at Storrs,No,9735,7187,2064,71
+University of Dallas,Yes,681,588,246,63
+University of Dayton,Yes,6361,5293,1507,93
+University of Delaware,Yes,14446,10516,3252,75
+University of Denver,Yes,2974,2001,580,67
+University of Detroit Mercy,Yes,927,731,415,51
+University of Dubuque,Yes,576,558,137,45
+University of Evansville,Yes,2096,1626,694,77
+University of Florida,No,12445,8836,3623,66
+University of Georgia,No,11220,7871,3320,63
+University of Hartford,Yes,5081,4040,1194,66
+University of Hawaii at Manoa,No,3580,2603,1627,54
+University of Illinois - Urbana,No,14939,11652,5705,81
+University of Illinois at Chicago,No,8384,5727,2710,34
+University of Indianapolis,Yes,1487,1276,388,69
+University of Kansas,No,8579,5561,3681,57
+University of La Verne,Yes,1597,969,226,47
+University of Louisville,No,4777,3057,1823,31
+University of Maine at Farmington,No,1208,803,438,59
+University of Maine at Machias,No,441,369,172,64
+University of Maine at Presque Isle,No,461,381,235,35
+University of Maryland at Baltimore County,No,4269,2594,985,55
+University of Maryland at College Park,No,14292,10315,3409,63
+University of Massachusetts at Amherst,No,14438,12414,3816,68
+University of Massachusetts at Dartmouth,No,3347,2597,1006,56
+University of Miami,Yes,7122,5386,1643,59
+University of Michigan at Ann Arbor,No,19152,12940,4893,87
+University of Minnesota at Duluth,No,4192,3126,1656,53
+University of Minnesota at Morris,No,1458,874,588,51
+University of Minnesota Twin Cities,No,11054,6397,3524,45
+University of Mississippi,No,3844,3383,1669,53
+University of Missouri at Columbia,No,6574,4637,2940,58
+University of Missouri at Rolla,No,1877,1826,823,49
+University of Missouri at Saint Louis,No,1618,1141,479,48
+University of Mobile,Yes,452,331,269,52
+University of Montevallo,No,1351,892,570,51
+University of Nebraska at Lincoln,No,6277,6003,3526,53
+University of New England,Yes,1209,750,265,64
+University of New Hampshire,No,9750,7640,2529,75
+University of North Carolina at Asheville,No,1757,979,394,37
+University of North Carolina at Chapel Hill,No,14596,5985,3331,83
+University of North Carolina at Charlotte,No,5803,4441,1730,62
+University of North Carolina at Greensboro,No,5191,4134,1500,53
+University of North Carolina at Wilmington,No,6071,3856,1449,55
+University of North Dakota,No,2777,2249,1652,49
+University of North Florida,No,1800,1253,560,47
+University of North Texas,No,4418,2737,2049,35
+University of Northern Colorado,No,5530,4007,1697,40
+University of Northern Iowa,No,4144,3379,1853,77
+University of Notre Dame,Yes,7700,3700,1906,97
+University of Oklahoma,No,4743,3970,2233,44
+University of Oregon,No,8631,6732,2546,54
+University of Pennsylvania,Yes,12394,5232,2464,93
+University of Pittsburgh-Main Campus,No,8586,6383,2503,66
+University of Portland,Yes,1758,1485,419,72
+University of Puget Sound,Yes,4044,2826,688,63
+University of Rhode Island,No,9643,7751,1968,63
+University of Richmond,Yes,5892,2718,756,100
+University of Rochester,Yes,8766,5498,1243,80
+University of San Diego,Yes,3934,2735,886,66
+University of San Francisco,Yes,2306,1721,538,62
+University of Sci. and Arts of Oklahoma,No,285,280,208,43
+University of Scranton,Yes,4471,2942,910,92
+University of South Carolina at Aiken,No,848,560,377,48
+University of South Carolina at Columbia,No,7693,5815,2328,63
+University of South Florida,No,7589,4676,1876,47
+University of Southern California,Yes,12229,8498,2477,68
+University of Southern Colorado,No,1401,1239,605,36
+University of Southern Indiana,No,2379,2133,1292,38
+University of Southern Mississippi,No,2850,2044,1046,45
+University of St. Thomas MN,Yes,2057,1807,828,89
+University of St. Thomas TX,Yes,374,280,185,62
+University of Tennessee at Knoxville,No,7473,5372,3013,53
+University of Texas at Arlington,No,3281,2559,1448,29
+University of Texas at Austin,No,14752,9572,5329,65
+University of Texas at San Antonio,No,4217,3100,1686,50
+University of the Arts,Yes,974,704,290,57
+University of the Pacific,Yes,2459,1997,582,65
+University of the South,Yes,1445,966,326,82
+University of Tulsa,Yes,1712,1557,696,47
+University of Utah,No,5095,4491,2400,37
+University of Vermont,No,7663,6008,1735,79
+University of Virginia,No,15849,5384,2678,95
+University of Washington,No,12749,7025,3343,65
+University of West Florida,No,1558,1254,472,53
+University of Wisconsin-Stout,No,2593,1966,1030,65
+University of Wisconsin-Superior,No,910,910,342,36
+University of Wisconsin-Whitewater,No,4400,3719,1472,67
+University of Wisconsin at Green Bay,No,2409,1939,759,46
+University of Wisconsin at Madison,No,14901,10932,4631,72
+University of Wisconsin at Milwaukee,No,5244,3782,1930,38
+University of Wyoming,No,2029,1516,1073,45
+Upper Iowa University,Yes,663,452,192,78
+Ursinus College,Yes,1399,1026,308,79
+Ursuline College,Yes,325,260,86,68
+Valley City State University,No,368,344,212,40
+Valparaiso University,Yes,2075,1727,520,95
+Vanderbilt University,Yes,7791,4690,1499,83
+Vassar College,Yes,3550,1877,653,90
+Villanova University,Yes,7759,5588,1477,96
+Virginia Commonwealth University,No,4963,3497,1567,45
+Virginia State University,No,2996,2440,704,31
+Virginia Tech,No,15712,11719,4277,73
+Virginia Union University,Yes,1847,1610,453,30
+Virginia Wesleyan College,Yes,1470,900,287,68
+Viterbo College,Yes,647,518,271,73
+Voorhees College,Yes,1465,1006,188,58
+Wabash College,Yes,800,623,256,72
+Wagner College,Yes,1416,1015,417,75
+Wake Forest University,Yes,5661,2392,903,89
+Walsh University,Yes,1092,890,477,68
+Warren Wilson College,Yes,440,311,112,63
+Wartburg College,Yes,1231,1074,345,67
+Washington and Jefferson College,Yes,1305,1100,334,86
+Washington and Lee University,Yes,3315,1096,425,90
+Washington College,Yes,1209,942,214,65
+Washington State University,No,6540,5839,2440,56
+Washington University,Yes,7654,5259,1254,90
+Wayne State College,No,1373,1373,724,52
+Waynesburg College,Yes,1190,978,324,63
+Webber College,Yes,280,143,79,90
+Webster University,Yes,665,462,226,48
+Wellesley College,Yes,2895,1249,579,91
+Wells College,Yes,318,240,130,69
+Wentworth Institute of Technology,Yes,1480,1257,452,64
+Wesley College,Yes,980,807,350,84
+Wesleyan University,Yes,4772,1973,712,92
+West Chester University of Penn.,No,6502,3539,1372,52
+West Liberty State College,No,1164,1062,478,60
+West Virginia Wesleyan College,Yes,1566,1400,483,67
+Western Carolina University,No,3224,2519,1057,55
+Western Maryland College,Yes,1205,984,278,60
+Western Michigan University,No,9167,7191,2738,55
+Western New England College,Yes,1650,1471,409,59
+Western State College of Colorado,No,2702,1623,604,52
+Western Washington University,No,5548,3563,1549,61
+Westfield State College,No,3100,2150,825,65
+Westminster College MO,Yes,662,553,184,62
+Westminster College,Yes,996,866,377,80
+Westminster College of Salt Lake City,Yes,917,720,213,50
+Westmont College,No,950,713,351,87
+Wheaton College IL,Yes,1432,920,548,85
+Westminster College PA,Yes,1738,1373,417,71
+Wheeling Jesuit College,Yes,903,755,213,72
+Whitman College,Yes,1861,998,359,72
+Whittier College,Yes,1681,1069,344,52
+Whitworth College,Yes,1121,926,372,80
+Widener University,Yes,2139,1492,502,63
+Wilkes University,Yes,1631,1431,434,67
+Willamette University,Yes,1658,1327,395,68
+William Jewell College,Yes,663,547,315,59
+William Woods University,Yes,469,435,227,52
+Williams College,Yes,4186,1245,526,99
+Wilson College,Yes,167,130,46,67
+Wingate College,Yes,1239,1017,383,91
+Winona State University,No,3325,2047,1301,58
+Winthrop University,No,2320,1805,769,59
+Wisconsin Lutheran College,Yes,152,128,75,50
+Wittenberg University,Yes,1979,1739,575,78
+Wofford College,Yes,1501,935,273,75
+Worcester Polytechnic Institute,Yes,2768,2314,682,82
+Worcester State College,No,2197,1515,543,40
+Xavier University,Yes,1959,1805,695,83
+Xavier University of Louisiana,Yes,2097,1915,695,49
+Yale University,Yes,10705,2453,1317,99
+York College of Pennsylvania,Yes,2989,1855,691,99
